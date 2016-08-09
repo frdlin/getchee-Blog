@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset=utf-8>
+		<title>getchee – Market data, store network planning software, and consulting services for markets in Asia</title>
+		<meta name="description" content="getchee is a data services and solutions provider. We use GIS technology to help retail and bank brands thrive throughout emerging markets in Asia.">
+		<meta name="keywords" content="market data, store network planning software, consulting services, food and beverage, merchandise and apparel, banking and finance, emerging markets, Asia, China, India, Southeast Asia, data services and solutions">
+		<link rel="stylesheet" href="css/n-index.css" />
+		<link rel="stylesheet" href="css/n-public.css" />
+		<link rel="stylesheet" href="css/n-header.css" />
+		<link rel="stylesheet" href="css/n-footer.css" />
+		<link rel="stylesheet" href="css/n-form.css" />
+		<link rel="stylesheet" href="css/n-prettyPhoto.css" />
+		<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,600" />
+		<script src="js/jquery-1.6.1.min.js" ></script>
+		<script src="js/global-scripts.js" ></script>
+		<script src="js/jquery.dropdown.js" ></script>
+		<script src="js/custom-form-elements.js" ></script>
+		<script src="js/jquery.prettyPhoto.js" ></script>
+		<script src="js/jquery.placeholder.js" ></script>
+		<script src="js/jquery.anchor.js" ></script>
+		<script src="js/jquery.validationEngine-en.js" ></script>
+		<script src="js/jquery.validationEngine.js" ></script>
+		<script>
+			jQuery(document).ready(function(){
+				// binds form submission and fields to the validation engine
+				jQuery("#contact-form").validationEngine('attach', {promptPosition : "topLeft", autoPositionUpdate : true});
+			});
+		</script>
+		<!--[if IE]>
+		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+		<![endif]-->
+		<!--script>
+		$(document).ready(function(){
+			$("#btnSignUp").click(function(){
+				setTimeout(function(){
+					$("#curious").hide();
+					$("#thank").fadeIn(1500);
+					$('#contact-form').find(':input').each(function(){
+						var type = this.type, tag = this.tagName.toLowerCase();
+						if (type == 'text' || type == 'password' || tag == 'textarea')
+							this.value = '';
+						<!--else if (type == 'checkbox' || type == 'radio')-->
+						<!--this.checked = false;-->
+						<!--else if (tag == 'select')-->
+						<!--this.selectedIndex = -1;
+					})
+				}, 6000);
+				setTimeout(function(){
+					$("#thank").hide();
+					$("#curious").fadeIn(1500);
+					$("#btnSignUp").attr("disabled", false);
+				}, 12000);
+			});
+		});
+		</script-->
+		<script>
+		$(document).ready(function(){
+			$("#contact-form").get(0).reset();
+			$("#contact-form")[0].reset();
+		});
+		</script>
+		<script type="text/javascript">
+			var _gaq = _gaq || [];
+			_gaq.push(['_setAccount', 'UA-4949329-1']);
+			_gaq.push(['_trackPageview']);
+			
+			(function() {
+				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			})();
+		</script>
+	</head>
+	<body>
+		<!--    HEADER    -->
+		<div style="display:hidden;" class="gallery clearfix"></div>
+		<header id="main-head">
+			<!--    LOGO    -->
+			<div id="logo">
+				<a href="index.html" target="_top"><img src="images/logo.png" alt="getchee, be market intelligent"></a>
+			</div>
+			<!--    Main Navigation    -->
+			<nav id="main_nav">
+				<ul id="dropdown" class="clear">
+					<li class="dropdown_01"><a href="about/our-company.html">About</a>
+						<ul class="bg_white">
+							<li class="dropdown_01_01"><a href="about/our-company.html">Our Company</a></li>
+							<li class="dropdown_01_02"><a href="about/our-clients.html">Our Clients</a></li>
+						</ul>
+					</li>
+					<li class="dropdown_02"><a href="industry/food-n-beverage.html">Industry</a>
+						<ul class="bg_white">
+							<li class="dropdown_02_01"><a href="industry/food-n-beverage.html">Food and Beverage</a></li>
+							<li class="dropdown_02_02"><a href="industry/merchandise-n-apparel.html">Merchandise and Apparel</a></li>
+							<li class="dropdown_02_03"><a href="industry/banking-n-finance.html">Banking and Finance</a></li>
+						</ul>
+					</li>
+					<li class="dropdown_03"><a href="data/data-overview.html">Data</a>
+						<ul class="bg_white">
+							<li class="dropdown_03_01"><a href="data/data-overview.html">Data Overview</a></li>
+							<li class="dropdown_03_02"><a href="data/china-insight.html">China Insight</a></li>
+						</ul>
+					</li>
+					<li class="dropdown_04"><a href="products/kiwi-overview.html">Products</a>
+						<ul class="bg_white">
+							<li class="dropdown_04_01"><a href="products/kiwi-overview.html">Kiwi Overview</a></li>
+							<li class="dropdown_04_02"><a href="http://www.getchee.com/kiwi/kiwi-support.html" target="_blank">Kiwi Support</a></li>
+						</ul>
+					</li>
+					<li class="dropdown_05"><a href="services/services-overview.html">Services</a>
+						<ul class="bg_white">
+							<li class="dropdown_05_01"><a href="services/services-overview.html">Services Overview</a></li>
+							<li class="dropdown_05_02"><a href="services/city-ranking-study.html">City Ranking Study</a></li>
+							<li class="dropdown_05_03"><a href="services/network-optimization-study.html">Network Optimization Study</a></li>
+							<li class="dropdown_05_04"><a href="services/greenfield-market-study.html">Greenfield Market Study</a></li>
+						</ul>
+					</li>
+					<li class="dropdown_06"><a href="contact.html">Contact</a></li>
+				</ul>
+			</nav>
+		</header>
+		<!--    BODY ARTICLE    -->
+		<div class="main_wrap" style="height:300px;">
+			<div class="center">
+				<div class="title_section">
+					<div class="main_title_black">Whoops.</div>
+					<div class="main_subtitle">Terribly sorry, but we cannot find that page.</div>
+				</div>
+			</div>
+		</div>
+		<div class="grey_line"></div>
+		<section class="grey_section">
+			<div class="main_wrap">
+				<div class="column_one_third">
+					<h4 class="s"><a href="data/data-overview.html">Data Related</a></h4>
+					<h5 class="s">Perhaps you were looking for information regarding our data?</h5>
+				</div>
+				<div class="column_one_third">
+					<h4 class="s"><a href="products/kiwi-overview.html">Product Related</a></h4>
+					<h5 class="s">You might have been looking for information about our products?</h5>
+				</div>
+				<div class="column_one_third_last">
+					<h4 class="s"><a href="services/services-overview.html">Services Related</a></h4>
+					<h5 class="s">Maybe you wanted to explore getchee’s consulting services?</h5>
+				</div>
+			</div>
+			<div class="clear"></div>
+		</section>
+		<!--    FOOTER    -->
+		<div class="footer_top"></div>
+		<footer id="footer">
+			<div id="content">
+			<div class="wrapper">
+				<div class="footer-left">
+					<div class="footer-left-top">
+						<h2>&#8220;<q>Everywhere is walking distance if you have the time.</q>&#8221;</h2>
+						<h2 class="gray"><i>- Steven Wright</i></h2>
+						<p>Unfortunately, brand owners operating in Asia have little time for leisurely exploration. Now is the time for better, smarter planning and execution for emerging markets.</p>
+					</div>
+					<div class="footer-left-middle">
+						<h2>Our Network</h2>
+					</div>
+					<div id="footer-left-bottom-left">
+						<dl>
+							<dt><a href="http://blog.getchee.com/" target="_blank">Blog</a></dt>
+							<dd>Keep up-to-date with industry news for emerging markets in Asia.</dd>
+						</dl>
+						<dl>
+							<dt><a href="http://events.getchee.com/" target="_blank">Events</a></dt>
+							<dd>We'd love to see you at our events. Find out more about participating.</dd>
+						</dl>
+					</div>
+					<div id="footer-left-bottom-right">
+						<nav>
+							<ul class="social_network">
+								<li><a href="http://www.linkedin.com/groups/getchee-2343208?mostPopular=&amp;gid=2343208" target="_blank" title="LinkedIn"><img src="images/nav-social-network-linkedin.png" class="ro" alt="LinkedIn"></a></li>
+								<li><a href="http://www.facebook.com/#!/group.php?gid=181941047957" target="_blank" title="Facebook"><img src="images/nav-social-network-facebook.png" class="ro" alt="Facebook"></a></li>
+								<li><a href="http://twitter.com/getchee" target="_blank" title="Twitter"><img src="images/nav-social-network-twitter.png" class="ro" alt="Twitter"></a></li>
+							</ul>
+						</nav>
+					</div>
+				</div>
+				<div class="footer-right">
+					<div class="footer-right-top">
+						<h1>We provide market insight, tools, and services to help brands thrive in Asia. <a href="about/our-company.html" title="Learn More">Learn More</a>.</h1>
+					</div>
+					<h2 id="curious">Curious? Get in touch.</h2><div id="thank" style="display:none"><span class="text_white">Thank You!</span> We'll be in touch with you soon.</div>
+					<form action="s2form/process.php" method="post" accept-charset="utf-8" id="contact-form" name="form" onSubmit="return checkFields()" autocomplete="off">
+						<input name="name" id="name" class="validate[required] yourname star" type="text" placeholder="Name">
+						<input name="email" id="email" class="validate[required,custom[email]] youremail star" type="text" placeholder="Email">
+						<textarea name="message" id="message" class="validate[required] textarea star" type="text" placeholder="Question"></textarea>
+						<!-- Begin Catpcha -->
+						<div id="qna">
+						<label for="captcha" id="captcha_question"></label>
+						<input type="text" name="" value="" id="captcha">
+						<p id="captcha_error">Captcha test failed. Please try again.</p>
+						<script src="s2form/captcha.js" ></script>
+						</div>
+						<!-- End Captcha -->
+						<div style="display:hidden;" class="gallery clearfix"></div>
+						<input type="hidden" name="tags" value="Leads from Website - Curious. 404.">
+						<div class="left_f" style="width:350px;">
+							<input type="checkbox" class="styled" name="newsletter subscription" value="Yes" checked="checked"/>
+							<span class="checkbox_label gallery clearfix">Signup for our newsletter. 
+							<ul class="newsletter_link">
+								<li class="preview"><a href="images/newsletter-preview.png" rel="prettyPhoto" title="">Preview</a></li>
+								<li class="archive"><a href="newsletter/index.html">Archive</a></li>
+							</ul>
+						</div>
+						<div class="right_f" style="width:150px;">
+							<input type="submit" class="button dark" name="subbut" value="Send" id="btnSignUp" />
+						</div>
+					</form>
+					<!--[if IE]>
+					<script>
+						$('#middle-name').keyup(function() {
+							var empty = true;
+							$('#middle-name').ready(function() {
+								if ($(this).val() == '') {
+									empty = true;
+								}
+							});
+							if (empty) {
+								$('#btnSignUp').attr('disabled', 'none');
+							} else {
+								$('#btnSignUp').attr('disabled', 'disabled');
+							}
+						});
+					</script>
+					
+					  <script>
+					   // To test the @id toggling on password inputs in browsers that don!|t support changing an input!|s @type dynamically (e.g. Firefox 3.6 or IE), uncomment this:
+					   // jQuery.fn.hide = function() { return this; }
+					   // Then uncomment the last rule in the <style> element (in the <head>).
+					   $(function() {
+						// Invoke the plugin
+						$('input, textarea').placeholder();
+						// That!|s it, really.
+						// Now display a message if the browser supports placeholder natively
+						var html;
+						if ($.fn.placeholder.input && $.fn.placeholder.textarea) {
+						 html = '<strong>Your current browser natively supports <code>placeholder</code> for <code>input</code> and <code>textarea</code> elements.</strong> The plugin won!|t run in this case, since it!|s not needed. If you want to test the plugin, use an older browser ;)';
+						} else if ($.fn.placeholder.input) {
+						 html = '<strong>Your current browser natively supports <code>placeholder</code> for <code>input</code> elements, but not for <code>textarea</code> elements.</strong> The plugin will only do its thang on the <code>textarea</code>s.';
+						}
+						if (html) {
+						 $('<p class="note">' + html + '</p>').insertAfter('form');
+						}
+					   });
+					  </script>
+					<![endif]-->
+				</div>
+			</div>
+		</div>
+		<div id="footer_nav_area">
+			<div class="wrapper">
+				<nav>
+					<ul class="footer_nav">
+						<li><a href="privacy-policy.html" target="_top" title="Privacy Policy">Privacy Policy</a></li>
+						<li id="last" ><a href="terms-of-use.html" target="_top" title="Terms of Use">Terms of Use</a></li>
+						<li id="last" title="中文版" style="display:none;"><a href=javascript:lang_change("cn");>中文版</a></li>
+					</ul>
+				</nav>
+				<small>&copy; <script>document.write((new Date()).getFullYear());</script> getchee. All rights reserved.</small>
+			</div>
+		</div>
+		<script>
+			$(document).ready(function(){
+				$("area[rel^='prettyPhoto']").prettyPhoto();
+				
+				$(".gallery:first a[rel^='prettyPhoto']").prettyPhoto({animation_speed:'normal',theme:'light_square',slideshow:3000, autoplay_slideshow: true});
+				$(".gallery:gt(0) a[rel^='prettyPhoto']").prettyPhoto({animation_speed:'fast',slideshow:10000, hideflash: true});
+		
+				$("#custom_content a[rel^='prettyPhoto']:first").prettyPhoto({
+					custom_markup: '<div id="map_canvas" style="width:260px; height:265px"></div>',
+					changepicturecallback: function(){ initialize(); }
+				});
+
+				$("#custom_content a[rel^='prettyPhoto']:last").prettyPhoto({
+					custom_markup: '<div id="bsap_1259344" class="bsarocks bsap_d49a0984d0f377271ccbf01a33f2b6d6"></div><div id="bsap_1237859" class="bsarocks bsap_d49a0984d0f377271ccbf01a33f2b6d6" style="height:260px"></div><div id="bsap_1251710" class="bsarocks bsap_d49a0984d0f377271ccbf01a33f2b6d6"></div>',
+					changepicturecallback: function(){ _bsap.exec(); }
+				});
+			});
+		</script>
+		</footer>
+	</body>
+</html>

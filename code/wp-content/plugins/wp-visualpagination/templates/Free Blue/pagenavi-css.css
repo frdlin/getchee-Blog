@@ -1,0 +1,45 @@
+/*
+Default style for WP-PageNavi plugin
+
+http://wordpress.org/extend/plugins/wp-pagenavi/
+*/
+.wp-pagenavi .clear {
+    clear: both;
+}
+.wp-pagenavi span, .wp-pagenavi a {
+    display: block; float: left; padding: 0px; border: none; text-align: center; margin: 0; 
+    font-weight: normal; font-family: serif; width: 46px; height: 26px; padding-top: 10px; margin-left: -1px;
+}
+.wp-pagenavi select {
+    float: left;
+}
+.wp-pagenavi span.current {
+    width: 46px; height: 26px;
+}
+.wp-pagenavi .page {
+    background-image: url('page.png'); background-repeat: no-repeat;
+}
+.wp-pagenavi .disablenextpostslink, .wp-pagenavi .disablepreviouspostslink {
+    cursor: auto;
+}
+.wp-pagenavi .previouspostslink, .wp-pagenavi .nextpostslink {
+    background-color: #a8a42b;
+}
+.wp-pagenavi .previouspostslink {
+    background-image: url('prev.png'); background-repeat: no-repeat; text-indent: -10000px;
+}
+.wp-pagenavi .nextpostslink {
+    background-image: url('next.png'); background-repeat: no-repeat; text-indent: -10000px;
+}
+.wp-pagenavi .previouspostslink, .wp-pagenavi .nextpostslink {
+    width: 93px; height: 26px;
+}
+.wp-pagenavi .first, .wp-pagenavi .last {
+    width: 94px; height: 26px;
+}
+.wp-pagenavi .first {
+    background-image: url('first.png'); background-repeat: no-repeat; text-indent: -10000px;
+}
+.wp-pagenavi .last {
+    background-image: url('last.png'); background-repeat: no-repeat; text-indent: -10000px;
+}

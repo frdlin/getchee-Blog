@@ -1,0 +1,14 @@
+.wp-pagenavi a, .wp-pagenavi span.current {
+font-size: 12px;}
+.wp-pagenavi .page {
+color: #5a5a5a;background-color: #fefefe;}
+.wp-pagenavi span.current {
+color: #5a5a5a; }
+.wp-pagenavi a.page:hover {
+background-color: #dcdcdc;color: #5a5a5a;}
+.wp-pagenavi span.current  {
+color: 5a5a5a;background-color: #dcdcdc; }
+.wp-pagenavi .previouspostslink, .wp-pagenavi .first {
+background-color: #383838;}
+.wp-pagenavi .nextpostslink, .wp-pagenavi .last {
+background-color: #383838;}

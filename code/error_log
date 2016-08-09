@@ -1,0 +1,218 @@
+[29-Jan-2013 02:38:24 UTC] PHP Parse error:  syntax error, unexpected T_ELSE in /home/getchee0/public_html/wordpress/wp-content/themes/getchee_template_v3/index.php on line 48
+[29-Jan-2013 02:39:08 UTC] PHP Parse error:  syntax error, unexpected T_ENDIF in /home/getchee0/public_html/wordpress/wp-content/themes/getchee_template_v3/index.php on line 49
+[29-Jan-2013 02:39:33 UTC] PHP Parse error:  syntax error, unexpected $end in /home/getchee0/public_html/wordpress/wp-content/themes/getchee_template_v3/index.php on line 54
+[29-Jan-2013 02:40:43 UTC] PHP Parse error:  syntax error, unexpected $end in /home/getchee0/public_html/wordpress/wp-content/themes/getchee_template_v3/index.php on line 53
+[29-Jan-2013 02:45:11 UTC] PHP Parse error:  syntax error, unexpected T_ELSE in /home/getchee0/public_html/wordpress/wp-content/themes/getchee_template_v3/index.php on line 48
+[29-Jan-2013 02:45:55 UTC] PHP Parse error:  syntax error, unexpected T_ELSE in /home/getchee0/public_html/wordpress/wp-content/themes/getchee_template_v3/index.php on line 48
+[29-Jan-2013 02:57:29 UTC] PHP Parse error:  syntax error, unexpected T_ELSE in /home/getchee0/public_html/wordpress/wp-content/themes/getchee_template_v3/index.php on line 48
+[29-Jan-2013 02:58:39 UTC] PHP Parse error:  syntax error, unexpected T_ENDIF in /home/getchee0/public_html/wordpress/wp-content/themes/getchee_template_v3/index.php on line 49
+[29-Jan-2013 03:05:29 UTC] PHP Parse error:  syntax error, unexpected T_ENDIF in /home/getchee0/public_html/wordpress/wp-content/themes/getchee_template_v3/index.php on line 49
+[29-Jan-2013 03:05:58 UTC] PHP Parse error:  syntax error, unexpected T_ENDIF in /home/getchee0/public_html/wordpress/wp-content/themes/getchee_template_v3/index.php on line 49
+[29-Jan-2013 03:11:15 UTC] PHP Parse error:  syntax error, unexpected T_ENDIF in /home/getchee0/public_html/wordpress/wp-content/themes/getchee_template_v3/index.php on line 49
+[29-Jan-2013 03:13:18 UTC] PHP Parse error:  syntax error, unexpected T_ENDIF in /home/getchee0/public_html/wordpress/wp-content/themes/getchee_template_v3/index.php on line 49
+[29-Jan-2013 03:14:01 UTC] PHP Parse error:  syntax error, unexpected $end in /home/getchee0/public_html/wordpress/wp-content/themes/getchee_template_v3/index.php on line 47
+[29-Jan-2013 03:14:31 UTC] PHP Parse error:  syntax error, unexpected $end in /home/getchee0/public_html/wordpress/wp-content/themes/getchee_template_v3/index.php on line 47
+[29-Jan-2013 03:14:49 UTC] PHP Parse error:  syntax error, unexpected $end in /home/getchee0/public_html/wordpress/wp-content/themes/getchee_template_v3/index.php on line 46
+[29-Jan-2013 03:16:21 UTC] PHP Parse error:  syntax error, unexpected $end in /home/getchee0/public_html/wordpress/wp-content/themes/getchee_template_v3/index.php on line 46
+[29-Jan-2013 03:18:05 UTC] PHP Parse error:  syntax error, unexpected T_ELSE in /home/getchee0/public_html/wordpress/wp-content/themes/getchee_template_v3/index.php on line 48
+[29-Jan-2013 03:24:21 UTC] PHP Parse error:  syntax error, unexpected T_ELSE in /home/getchee0/public_html/wordpress/wp-content/themes/getchee_template_v3/index.php on line 48
+[29-Jan-2013 03:24:28 UTC] PHP Parse error:  syntax error, unexpected T_ELSE in /home/getchee0/public_html/wordpress/wp-content/themes/getchee_template_v3/index.php on line 48
+[29-Jan-2013 03:58:46 UTC] PHP Parse error:  syntax error, unexpected T_ELSE in /home/getchee0/public_html/wordpress/wp-content/themes/getchee_template_v3/index.php on line 48
+[29-Jan-2013 03:58:49 UTC] PHP Parse error:  syntax error, unexpected T_ELSE in /home/getchee0/public_html/wordpress/wp-content/themes/getchee_template_v3/index.php on line 48
+[29-Jan-2013 05:16:42 UTC] PHP Parse error:  syntax error, unexpected T_ELSE in /home/getchee0/public_html/wordpress/wp-content/themes/getchee_template_v3/index.php on line 48
+[29-Jan-2013 05:16:54 UTC] PHP Parse error:  syntax error, unexpected T_ELSE in /home/getchee0/public_html/wordpress/wp-content/themes/getchee_template_v3/index.php on line 48
+[29-Jan-2013 06:45:56 UTC] PHP Fatal error:  Call to undefined function get_sidebar11() in /home/getchee0/public_html/wordpress/wp-content/themes/getchee_template_v3/index.php on line 5
+[29-Jan-2013 07:06:00 UTC] PHP Fatal error:  Call to undefined function get_Sidebar_11() in /home/getchee0/public_html/wordpress/wp-content/themes/getchee_template_v3/index.php on line 5
+[29-Jan-2013 07:11:01 UTC] PHP Fatal error:  Call to undefined function get_Sidebar_11() in /home/getchee0/public_html/wordpress/wp-content/themes/getchee_template_v3/index.php on line 5
+[29-Jan-2013 07:20:25 UTC] PHP Parse error:  syntax error, unexpected $end in /home/getchee0/public_html/wordpress/wp-content/themes/getchee_template_v3/single.php on line 41
+[29-Jan-2013 08:14:13 UTC] PHP Parse error:  syntax error, unexpected T_ENDWHILE in /home/getchee0/public_html/wordpress/wp-content/themes/getchee_template_v3/single.php on line 45
+[29-Jan-2013 08:18:34 UTC] PHP Parse error:  syntax error, unexpected $end in /home/getchee0/public_html/wordpress/wp-content/themes/getchee_template_v3/comments.php on line 85
+[29-Jan-2013 08:27:46 UTC] PHP Parse error:  syntax error, unexpected $end in /home/getchee0/public_html/wordpress/wp-content/themes/getchee_template_v3/comments.php on line 85
+[30-Jan-2013 01:00:57 UTC] PHP Parse error:  syntax error, unexpected $end in /home/getchee0/public_html/wordpress/wp-content/themes/getchee_template_v3/comments.php on line 85
+[30-Jan-2013 01:15:26 UTC] PHP Parse error:  syntax error, unexpected $end in /home/getchee0/public_html/wordpress/wp-content/themes/getchee_template_v3/index.php on line 67
+[30-Jan-2013 02:07:15 UTC] PHP Parse error:  syntax error, unexpected $end in /home/getchee0/public_html/wordpress/wp-content/themes/getchee_template_v3/comments.php on line 85
+[30-Jan-2013 02:34:23 UTC] PHP Parse error:  syntax error, unexpected T_ENDIF in /home/getchee0/public_html/wordpress/wp-content/themes/getchee_template_v3/sidebar.php on line 75
+[30-Jan-2013 02:36:04 UTC] PHP Parse error:  syntax error, unexpected T_ENDIF in /home/getchee0/public_html/wordpress/wp-content/themes/getchee_template_v3/sidebar.php on line 72
+[30-Jan-2013 02:38:46 UTC] PHP Parse error:  syntax error, unexpected $end in /home/getchee0/public_html/wordpress/wp-content/themes/getchee_template_v3/sidebar.php on line 5
+[30-Jan-2013 02:43:16 UTC] PHP Parse error:  syntax error, unexpected $end in /home/getchee0/public_html/wordpress/wp-content/themes/getchee_template_v3/comments.php on line 85
+[30-Jan-2013 02:44:30 UTC] PHP Parse error:  syntax error, unexpected $end in /home/getchee0/public_html/wordpress/wp-content/themes/getchee_template_v3/comments.php on line 85
+[30-Jan-2013 03:31:09 UTC] PHP Parse error:  syntax error, unexpected $end in /home/getchee0/public_html/wordpress/wp-content/themes/getchee_template_v3/comments.php on line 85
+[30-Jan-2013 03:33:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/getchee0/public_html/wordpress/wp-content/themes/getchee_template_v3/functions.php:37) in /home/getchee0/public_html/wordpress/wp-login.php on line 368
+[30-Jan-2013 03:33:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/getchee0/public_html/wordpress/wp-content/themes/getchee_template_v3/functions.php:37) in /home/getchee0/public_html/wordpress/wp-login.php on line 380
+[30-Jan-2013 03:33:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/getchee0/public_html/wordpress/wp-content/themes/getchee_template_v3/functions.php:37) in /home/getchee0/public_html/wordpress/wp-includes/pluggable.php on line 697
+[30-Jan-2013 03:33:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/getchee0/public_html/wordpress/wp-content/themes/getchee_template_v3/functions.php:37) in /home/getchee0/public_html/wordpress/wp-includes/pluggable.php on line 698
+[30-Jan-2013 03:33:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/getchee0/public_html/wordpress/wp-content/themes/getchee_template_v3/functions.php:37) in /home/getchee0/public_html/wordpress/wp-includes/pluggable.php on line 699
+[30-Jan-2013 03:33:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/getchee0/public_html/wordpress/wp-content/themes/getchee_template_v3/functions.php:37) in /home/getchee0/public_html/wordpress/wp-includes/pluggable.php on line 700
+[30-Jan-2013 03:33:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/getchee0/public_html/wordpress/wp-content/themes/getchee_template_v3/functions.php:37) in /home/getchee0/public_html/wordpress/wp-includes/pluggable.php on line 701
+[30-Jan-2013 03:33:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/getchee0/public_html/wordpress/wp-content/themes/getchee_template_v3/functions.php:37) in /home/getchee0/public_html/wordpress/wp-includes/pluggable.php on line 702
+[30-Jan-2013 03:33:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/getchee0/public_html/wordpress/wp-content/themes/getchee_template_v3/functions.php:37) in /home/getchee0/public_html/wordpress/wp-includes/pluggable.php on line 705
+[30-Jan-2013 03:33:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/getchee0/public_html/wordpress/wp-content/themes/getchee_template_v3/functions.php:37) in /home/getchee0/public_html/wordpress/wp-includes/pluggable.php on line 706
+[30-Jan-2013 03:33:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/getchee0/public_html/wordpress/wp-content/themes/getchee_template_v3/functions.php:37) in /home/getchee0/public_html/wordpress/wp-includes/pluggable.php on line 707
+[30-Jan-2013 03:33:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/getchee0/public_html/wordpress/wp-content/themes/getchee_template_v3/functions.php:37) in /home/getchee0/public_html/wordpress/wp-includes/pluggable.php on line 708
+[30-Jan-2013 03:33:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/getchee0/public_html/wordpress/wp-content/themes/getchee_template_v3/functions.php:37) in /home/getchee0/public_html/wordpress/wp-includes/pluggable.php on line 711
+[30-Jan-2013 03:33:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/getchee0/public_html/wordpress/wp-content/themes/getchee_template_v3/functions.php:37) in /home/getchee0/public_html/wordpress/wp-includes/pluggable.php on line 712
+[30-Jan-2013 03:33:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/getchee0/public_html/wordpress/wp-content/themes/getchee_template_v3/functions.php:37) in /home/getchee0/public_html/wordpress/wp-includes/pluggable.php on line 713
+[30-Jan-2013 03:33:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/getchee0/public_html/wordpress/wp-content/themes/getchee_template_v3/functions.php:37) in /home/getchee0/public_html/wordpress/wp-includes/pluggable.php on line 714
+[30-Jan-2013 03:33:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/getchee0/public_html/wordpress/wp-content/themes/getchee_template_v3/functions.php:37) in /home/getchee0/public_html/wordpress/wp-includes/pluggable.php on line 876
+[30-Jan-2013 03:33:58 UTC] PHP Parse error:  syntax error, unexpected $end in /home/getchee0/public_html/wordpress/wp-content/themes/getchee_template_v3/comments.php on line 85
+[30-Jan-2013 03:34:23 UTC] PHP Parse error:  syntax error, unexpected $end in /home/getchee0/public_html/wordpress/wp-content/themes/getchee_template_v3/comments.php on line 85
+[30-Jan-2013 08:05:26 UTC] PHP Parse error:  syntax error, unexpected $end in /home/getchee0/public_html/wordpress/wp-content/themes/getchee_template_v3/comments.php on line 85
+[30-Jan-2013 08:15:20 UTC] PHP Parse error:  syntax error, unexpected $end in /home/getchee0/public_html/wordpress/wp-content/themes/getchee_template_v3/comments.php on line 85
+[30-Jan-2013 09:31:52 UTC] PHP Parse error:  syntax error, unexpected $end in /home/getchee0/public_html/wordpress/wp-content/themes/getchee_template_v3/comments.php on line 85
+[30-Jan-2013 09:32:31 UTC] PHP Parse error:  syntax error, unexpected $end in /home/getchee0/public_html/wordpress/wp-content/themes/getchee_template_v3/comments.php on line 85
+[31-Jan-2013 03:39:13 UTC] PHP Parse error:  syntax error, unexpected $end in /home/getchee0/public_html/wordpress/wp-content/themes/getchee_template_v3/comments.php on line 85
+[31-Jan-2013 03:58:03 UTC] PHP Parse error:  syntax error, unexpected $end in /home/getchee0/public_html/wordpress/wp-content/themes/getchee_template_v3/comments.php on line 85
+[31-Jan-2013 05:33:27 UTC] PHP Warning:  Missing argument 1 for get_avatar(), called in /home/getchee0/public_html/wordpress/wp-content/themes/getchee_template_v3/index.php on line 20 and defined in /home/getchee0/public_html/wordpress/wp-includes/pluggable.php on line 1584
+[31-Jan-2013 05:33:27 UTC] PHP Warning:  Missing argument 1 for get_avatar(), called in /home/getchee0/public_html/wordpress/wp-content/themes/getchee_template_v3/index.php on line 20 and defined in /home/getchee0/public_html/wordpress/wp-includes/pluggable.php on line 1584
+[31-Jan-2013 05:33:27 UTC] PHP Warning:  Missing argument 1 for get_avatar(), called in /home/getchee0/public_html/wordpress/wp-content/themes/getchee_template_v3/index.php on line 20 and defined in /home/getchee0/public_html/wordpress/wp-includes/pluggable.php on line 1584
+[31-Jan-2013 06:37:48 UTC] PHP Fatal error:  Call to undefined function the_nickname() in /home/getchee0/public_html/wordpress/wp-content/themes/getchee_template_v3/index.php on line 23
+[31-Jan-2013 07:39:16 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/getchee0/public_html/wordpress/wp-includes/capabilities.php on line 516
+[31-Jan-2013 07:48:56 UTC] PHP Parse error:  syntax error, unexpected $end in /home/getchee0/public_html/wordpress/wp-content/themes/getchee_template_v3/comments.php on line 85
+[31-Jan-2013 08:43:24 UTC] PHP Parse error:  syntax error, unexpected $end in /home/getchee0/public_html/wordpress/wp-content/themes/getchee_template_v3/comments.php on line 85
+[31-Jan-2013 08:47:01 UTC] PHP Parse error:  syntax error, unexpected $end in /home/getchee0/public_html/wordpress/wp-content/themes/getchee_template_v3/comments.php on line 85
+[31-Jan-2013 08:47:57 UTC] PHP Parse error:  syntax error, unexpected $end in /home/getchee0/public_html/wordpress/wp-content/themes/getchee_template_v3/single.php on line 51
+[31-Jan-2013 09:14:31 UTC] PHP Parse error:  syntax error, unexpected $end in /home/getchee0/public_html/wordpress/wp-content/themes/getchee_template_v3/comments.php on line 85
+[31-Jan-2013 09:17:26 UTC] PHP Parse error:  syntax error, unexpected $end in /home/getchee0/public_html/wordpress/wp-content/themes/getchee_template_v3/comments.php on line 85
+[31-Jan-2013 10:06:31 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/getchee0/public_html/wordpress/wp-content/themes/getchee_template_v3/library/functions/comments.php on line 211
+[01-Feb-2013 03:43:34 UTC] PHP Parse error:  syntax error, unexpected T_ENDIF in /home/getchee0/public_html/wordpress/wp-content/themes/getchee_template_v3/functions.php on line 70
+[01-Feb-2013 05:32:55 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/getchee0/public_html/wordpress/wp-includes/comment-template.php on line 1062
+[01-Feb-2013 05:35:42 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/getchee0/public_html/wordpress/wp-includes/comment-template.php on line 1113
+[01-Feb-2013 06:41:26 UTC] PHP Parse error:  syntax error, unexpected $end in /home/getchee0/public_html/wordpress/wp-content/themes/getchee_template_v3/single.php on line 59
+[01-Feb-2013 06:41:47 UTC] PHP Parse error:  syntax error, unexpected T_ENDIF in /home/getchee0/public_html/wordpress/wp-content/themes/getchee_template_v3/single.php on line 54
+[01-Feb-2013 06:56:24 UTC] PHP Parse error:  syntax error, unexpected T_ENDIF in /home/getchee0/public_html/wordpress/wp-content/themes/getchee_template_v4/single.php on line 54
+[01-Feb-2013 06:57:14 UTC] PHP Parse error:  syntax error, unexpected T_ENDIF in /home/getchee0/public_html/wordpress/wp-content/themes/getchee_template_v3/single.php on line 54
+[01-Feb-2013 06:57:16 UTC] PHP Parse error:  syntax error, unexpected T_ENDIF in /home/getchee0/public_html/wordpress/wp-content/themes/getchee_template_v3/single.php on line 54
+[01-Feb-2013 06:57:31 UTC] PHP Parse error:  syntax error, unexpected T_ENDIF in /home/getchee0/public_html/wordpress/wp-content/themes/getchee_template_v3/single.php on line 54
+[01-Feb-2013 07:01:12 UTC] PHP Parse error:  syntax error, unexpected T_ENDIF in /home/getchee0/public_html/wordpress/wp-content/themes/getchee_template_v3/single.php on line 54
+[01-Feb-2013 07:01:20 UTC] PHP Parse error:  syntax error, unexpected T_ENDIF in /home/getchee0/public_html/wordpress/wp-content/themes/getchee_template_v3/single.php on line 54
+[01-Feb-2013 07:02:43 UTC] PHP Parse error:  syntax error, unexpected T_ENDIF in /home/getchee0/public_html/wordpress/wp-content/themes/getchee_template_v3/single.php on line 54
+[01-Feb-2013 07:03:00 UTC] PHP Parse error:  syntax error, unexpected T_ENDIF in /home/getchee0/public_html/wordpress/wp-content/themes/getchee_template_v3/single.php on line 54
+[01-Feb-2013 07:03:15 UTC] PHP Parse error:  syntax error, unexpected T_ENDIF in /home/getchee0/public_html/wordpress/wp-content/themes/getchee_template_v3/single.php on line 54
+[01-Feb-2013 07:03:16 UTC] PHP Parse error:  syntax error, unexpected T_ENDIF in /home/getchee0/public_html/wordpress/wp-content/themes/getchee_template_v3/single.php on line 54
+[01-Feb-2013 07:03:22 UTC] PHP Parse error:  syntax error, unexpected T_ENDIF in /home/getchee0/public_html/wordpress/wp-content/themes/getchee_template_v3/single.php on line 54
+[01-Feb-2013 07:03:46 UTC] PHP Parse error:  syntax error, unexpected T_ENDIF in /home/getchee0/public_html/wordpress/wp-content/themes/getchee_template_v3/single.php on line 54
+[01-Feb-2013 07:03:54 UTC] PHP Parse error:  syntax error, unexpected T_ENDIF in /home/getchee0/public_html/wordpress/wp-content/themes/getchee_template_v3/single.php on line 54
+[01-Feb-2013 07:04:22 UTC] PHP Parse error:  syntax error, unexpected $end in /home/getchee0/public_html/wordpress/wp-content/themes/getchee_template_v4/single.php on line 58
+[01-Feb-2013 07:05:03 UTC] PHP Parse error:  syntax error, unexpected $end in /home/getchee0/public_html/wordpress/wp-content/themes/getchee_template_v4/comments.php on line 85
+[01-Feb-2013 07:06:50 UTC] PHP Parse error:  syntax error, unexpected $end in /home/getchee0/public_html/wordpress/wp-content/themes/getchee_template_v4/comments.php on line 81
+[01-Feb-2013 07:25:00 UTC] PHP Parse error:  syntax error, unexpected T_ENDIF in /home/getchee0/public_html/wordpress/wp-content/themes/getchee_template_v3/single.php on line 54
+[01-Feb-2013 08:52:40 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home/getchee0/public_html/wordpress/wp-content/themes/getchee_template_v4/functions.php on line 65
+[01-Feb-2013 08:53:44 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home/getchee0/public_html/wordpress/wp-content/themes/getchee_template_v4/functions.php on line 65
+[01-Feb-2013 08:57:54 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home/getchee0/public_html/wordpress/wp-content/themes/getchee_template_v4/functions.php on line 65
+[01-Feb-2013 08:57:57 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home/getchee0/public_html/wordpress/wp-content/themes/getchee_template_v4/functions.php on line 65
+[01-Feb-2013 09:00:02 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home/getchee0/public_html/wordpress/wp-content/themes/getchee_template_v4/functions.php on line 65
+[01-Feb-2013 09:00:06 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home/getchee0/public_html/wordpress/wp-content/themes/getchee_template_v4/functions.php on line 65
+[01-Feb-2013 09:01:16 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home/getchee0/public_html/wordpress/wp-content/themes/getchee_template_v4/functions.php on line 65
+[01-Feb-2013 10:05:54 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home/getchee0/public_html/wordpress/wp-content/themes/getchee_template_v4/functions.php on line 65
+[01-Feb-2013 10:05:59 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home/getchee0/public_html/wordpress/wp-content/themes/getchee_template_v4/functions.php on line 65
+[07-Feb-2013 07:12:33 UTC] PHP Parse error:  syntax error, unexpected $end in /home/getchee0/public_html/wordpress/wp-content/themes/getchee v3/single.php on line 41
+[07-Feb-2013 10:21:55 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/getchee0/public_html/wordpress/wp-content/themes/getchee v3/author.php on line 20
+[07-Feb-2013 10:23:47 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/getchee0/public_html/wordpress/wp-content/themes/getchee v3/author.php on line 20
+[07-Feb-2013 10:23:57 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/getchee0/public_html/wordpress/wp-content/themes/getchee v3/author.php on line 20
+[07-Feb-2013 10:25:01 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/getchee0/public_html/wordpress/wp-content/themes/getchee v3/author.php on line 20
+[08-Feb-2013 02:54:58 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/getchee0/public_html/wordpress/wp-content/themes/getchee v3/index.php on line 39
+[08-Feb-2013 07:03:38 UTC] PHP Parse error:  syntax error, unexpected T_ENDFOREACH in /home/getchee0/public_html/wordpress/wp-content/themes/getchee v3/index.php on line 34
+[08-Feb-2013 07:10:00 UTC] PHP Parse error:  syntax error, unexpected T_ENDFOREACH in /home/getchee0/public_html/wordpress/wp-content/themes/getchee v3/index.php on line 34
+[19-Feb-2013 06:18:57 UTC] PHP Fatal error:  Using $this when not in object context in /home/getchee0/public_html/wordpress/wp-content/themes/getchee v3/index.php on line 54
+[19-Feb-2013 06:19:01 UTC] PHP Fatal error:  Using $this when not in object context in /home/getchee0/public_html/wordpress/wp-content/themes/getchee v3/index.php on line 54
+[19-Feb-2013 06:20:37 UTC] PHP Fatal error:  Using $this when not in object context in /home/getchee0/public_html/wordpress/wp-content/themes/getchee v3/index.php on line 54
+[19-Feb-2013 06:20:45 UTC] PHP Fatal error:  Using $this when not in object context in /home/getchee0/public_html/wordpress/wp-content/themes/getchee v3/index.php on line 54
+[19-Feb-2013 07:31:06 UTC] PHP Fatal error:  Call to undefined function z_taxonomy_image_url() in /home/getchee0/public_html/wordpress/wp-content/themes/getchee v3/index.php on line 31
+[19-Feb-2013 07:32:38 UTC] PHP Fatal error:  Call to undefined function z_taxonomy_image_url() in /home/getchee0/public_html/wordpress/wp-content/themes/getchee v3/index.php on line 31
+[19-Feb-2013 07:33:43 UTC] PHP Fatal error:  Call to undefined function z_taxonomy_image_url() in /home/getchee0/public_html/wordpress/wp-content/themes/getchee v3/index.php on line 31
+[19-Feb-2013 07:34:20 UTC] PHP Fatal error:  Call to undefined function z_taxonomy_image_url() in /home/getchee0/public_html/wordpress/wp-content/themes/getchee v3/index.php on line 31
+[19-Feb-2013 07:34:34 UTC] PHP Fatal error:  Call to undefined function z_taxonomy_image_url() in /home/getchee0/public_html/wordpress/wp-content/themes/getchee v3/index.php on line 31
+[19-Feb-2013 07:35:56 UTC] PHP Fatal error:  Call to undefined function z_taxonomy_image_url() in /home/getchee0/public_html/wordpress/wp-content/themes/getchee v3/index.php on line 31
+[19-Feb-2013 07:36:12 UTC] PHP Fatal error:  Call to undefined function z_taxonomy_image_url() in /home/getchee0/public_html/wordpress/wp-content/themes/getchee v3/index.php on line 31
+[19-Feb-2013 07:36:47 UTC] PHP Fatal error:  Call to undefined function z_taxonomy_image_url() in /home/getchee0/public_html/wordpress/wp-content/themes/getchee v3/index.php on line 31
+[19-Feb-2013 07:37:52 UTC] WordPress database error Unknown column 'post_sidebar' in 'field list' for query SELECT post_sidebar FROM wp_posts LIMIT 0 made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), call_user_func_array, wp_custom_sidebar_plugin::custom_sidebar_addcolumn
+[19-Feb-2013 07:53:40 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/getchee0/public_html/wordpress/index.php on line 1
+[19-Feb-2013 07:53:47 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/getchee0/public_html/wordpress/index.php on line 1
+[19-Feb-2013 07:54:25 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/getchee0/public_html/wordpress/index.php on line 1
+[19-Feb-2013 07:54:40 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/getchee0/public_html/wordpress/index.php on line 1
+[20-Feb-2013 09:50:41 UTC] PHP Parse error:  syntax error, unexpected $end in /home/getchee0/public_html/wordpress/wp-content/themes/getchee v3/single.php on line 69
+[20-Feb-2013 09:51:11 UTC] PHP Parse error:  syntax error, unexpected $end in /home/getchee0/public_html/wordpress/wp-content/themes/getchee v3/single.php on line 69
+[22-Feb-2013 01:53:20 UTC] PHP Fatal error:  Call to undefined function twentyeleven_content_nav() in /home/getchee0/public_html/wordpress/wp-content/themes/getchee v3/search.php on line 21
+[22-Feb-2013 02:19:15 UTC] PHP Warning:  include(/home/getchee0/public_html/wordpress/wp-content/themes/getchee v3/Sidebar.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/getchee0/public_html/wordpress/wp-content/themes/getchee v3/search.php on line 7
+[22-Feb-2013 02:19:15 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/home/getchee0/public_html/wordpress/wp-content/themes/getchee v3/Sidebar.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/getchee0/public_html/wordpress/wp-content/themes/getchee v3/search.php on line 7
+[22-Feb-2013 02:40:29 UTC] PHP Warning:  include(/home/getchee0/public_html/wordpress/wp-content/themes/getchee v3/sidebar-all.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/getchee0/public_html/wordpress/wp-content/themes/getchee v3/search.php on line 7
+[22-Feb-2013 02:40:29 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/home/getchee0/public_html/wordpress/wp-content/themes/getchee v3/sidebar-all.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/getchee0/public_html/wordpress/wp-content/themes/getchee v3/search.php on line 7
+[22-Feb-2013 02:46:46 UTC] PHP Warning:  include(/home/getchee0/public_html/wordpress/wp-content/themes/getchee v3/sidebarall.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/getchee0/public_html/wordpress/wp-content/themes/getchee v3/search.php on line 7
+[22-Feb-2013 02:46:46 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/home/getchee0/public_html/wordpress/wp-content/themes/getchee v3/sidebarall.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/getchee0/public_html/wordpress/wp-content/themes/getchee v3/search.php on line 7
+[22-Feb-2013 06:24:17 UTC] PHP Parse error:  syntax error, unexpected $end in /home/getchee0/public_html/wordpress/wp-content/themes/getchee v3/single.php on line 62
+[22-Feb-2013 06:24:22 UTC] PHP Parse error:  syntax error, unexpected $end in /home/getchee0/public_html/wordpress/wp-content/themes/getchee v3/single.php on line 62
+[22-Feb-2013 06:24:56 UTC] PHP Parse error:  syntax error, unexpected $end in /home/getchee0/public_html/wordpress/wp-content/themes/getchee v3/single.php on line 62
+[22-Feb-2013 06:26:21 UTC] PHP Parse error:  syntax error, unexpected $end in /home/getchee0/public_html/wordpress/wp-content/themes/getchee v3/single.php on line 63
+[22-Feb-2013 06:26:23 UTC] PHP Parse error:  syntax error, unexpected $end in /home/getchee0/public_html/wordpress/wp-content/themes/getchee v3/single.php on line 63
+[22-Feb-2013 06:26:28 UTC] PHP Parse error:  syntax error, unexpected $end in /home/getchee0/public_html/wordpress/wp-content/themes/getchee v3/single.php on line 63
+[22-Feb-2013 07:36:39 UTC] PHP Fatal error:  Call to undefined function z_taxonomy_image_url() in /home/getchee0/public_html/wordpress/wp-content/themes/getchee v3/single.php on line 25
+[22-Feb-2013 07:36:45 UTC] PHP Fatal error:  Call to undefined function z_taxonomy_image_url() in /home/getchee0/public_html/wordpress/wp-content/themes/getchee v3/single.php on line 25
+[22-Feb-2013 08:55:08 UTC] PHP Fatal error:  Call to undefined function cat_slug() in /home/getchee0/public_html/wordpress/wp-content/themes/getchee v3/index.php on line 31
+[22-Feb-2013 08:55:15 UTC] PHP Fatal error:  Call to undefined function cat_slug() in /home/getchee0/public_html/wordpress/wp-content/themes/getchee v3/index.php on line 31
+[22-Feb-2013 08:55:23 UTC] PHP Fatal error:  Call to undefined function cat_slug() in /home/getchee0/public_html/wordpress/wp-content/themes/getchee v3/index.php on line 31
+[25-Feb-2013 02:20:48 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/getchee0/public_html/wordpress/wp-content/themes/getchee v3/index.php on line 29
+[25-Feb-2013 02:21:04 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/getchee0/public_html/wordpress/wp-content/themes/getchee v3/index.php on line 29
+[25-Feb-2013 02:21:45 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/getchee0/public_html/wordpress/wp-content/themes/getchee v3/index.php on line 29
+[25-Feb-2013 02:21:51 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/getchee0/public_html/wordpress/wp-content/themes/getchee v3/index.php on line 29
+[25-Feb-2013 07:50:06 UTC] PHP Parse error:  syntax error, unexpected T_AS in /home/getchee0/public_html/wordpress/wp-content/themes/getchee v3/index.php on line 31
+[25-Feb-2013 07:50:08 UTC] PHP Parse error:  syntax error, unexpected T_AS in /home/getchee0/public_html/wordpress/wp-content/themes/getchee v3/index.php on line 31
+[25-Feb-2013 07:50:10 UTC] PHP Parse error:  syntax error, unexpected T_AS in /home/getchee0/public_html/wordpress/wp-content/themes/getchee v3/index.php on line 31
+[25-Feb-2013 07:50:12 UTC] PHP Parse error:  syntax error, unexpected T_AS in /home/getchee0/public_html/wordpress/wp-content/themes/getchee v3/index.php on line 31
+[01-Mar-2013 06:49:28 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/getchee0/public_html/wordpress/wp-content/themes/getchee v3/functions.php on line 96
+[04-Mar-2013 05:59:23 UTC] PHP Parse error:  syntax error, unexpected T_STRING in /home/getchee0/public_html/blog/wp-content/themes/getchee/functions.php on line 92
+[04-Mar-2013 06:00:29 UTC] PHP Parse error:  syntax error, unexpected T_STRING in /home/getchee0/public_html/blog/wp-content/themes/getchee/functions.php on line 92
+[04-Mar-2013 06:00:50 UTC] PHP Parse error:  syntax error, unexpected T_STRING in /home/getchee0/public_html/blog/wp-content/themes/getchee/functions.php on line 92
+[23-May-2013 08:57:11 UTC] PHP Deprecated:  Directive 'magic_quotes_gpc' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[23-May-2013 08:58:00 UTC] PHP Deprecated:  Directive 'magic_quotes_gpc' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[23-May-2013 08:58:01 UTC] PHP Deprecated:  Directive 'magic_quotes_gpc' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[23-May-2013 08:59:31 UTC] PHP Deprecated:  Directive 'magic_quotes_gpc' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[23-May-2013 08:59:31 UTC] PHP Deprecated:  Directive 'magic_quotes_gpc' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[23-May-2013 09:04:11 UTC] PHP Deprecated:  Directive 'magic_quotes_gpc' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[23-May-2013 09:05:11 UTC] PHP Deprecated:  Directive 'magic_quotes_gpc' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[23-May-2013 02:08:21 America/Los_Angeles] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[23-May-2013 02:08:21 America/Los_Angeles] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[23-May-2013 02:08:21 America/Los_Angeles] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[23-May-2013 02:08:21 America/Los_Angeles] PHP Warning:  Module 'SQLite' already loaded in Unknown on line 0
+[23-May-2013 02:08:21 America/Los_Angeles] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[05-Jul-2013 05:34:58 UTC] PHP Parse error:  syntax error, unexpected T_ELSE in /home/getchee0/public_html/blog/wp-content/themes/getchee/single.php on line 66
+[07-Oct-2013 06:53:45 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/getchee0/public_html/blog/wp-content/themes/getchee/functions.php on line 191
+[07-Oct-2013 06:54:18 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/getchee0/public_html/blog/wp-content/themes/getchee/functions.php on line 191
+[07-Oct-2013 06:54:37 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/getchee0/public_html/blog/wp-content/themes/getchee/functions.php on line 191
+[07-Oct-2013 06:54:47 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/getchee0/public_html/blog/wp-content/themes/getchee/functions.php on line 191
+[07-Oct-2013 06:54:47 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/getchee0/public_html/blog/wp-content/themes/getchee/functions.php on line 191
+[07-Oct-2013 06:54:53 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/getchee0/public_html/blog/wp-content/themes/getchee/functions.php on line 191
+[07-Oct-2013 07:04:45 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/getchee0/public_html/blog/wp-content/themes/getchee/functions.php on line 191
+[07-Oct-2013 07:05:04 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/getchee0/public_html/blog/wp-content/themes/getchee/functions.php on line 191
+[07-Oct-2013 07:05:54 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/getchee0/public_html/blog/wp-content/themes/getchee/functions.php on line 191
+[07-Oct-2013 08:27:08 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/getchee0/public_html/blog/wp-content/themes/getchee/functions.php on line 189
+[07-Oct-2013 08:29:03 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/getchee0/public_html/blog/wp-content/themes/getchee/functions.php on line 189
+[07-Oct-2013 08:30:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/getchee0/public_html/blog/wp-content/themes/getchee/header.php:19) in /home/getchee0/public_html/blog/wp-includes/pluggable.php on line 875
+[02-Jan-2014 11:02:46 UTC] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/getchee0/public_html/blog/wp-includes/query.php on line 2254
+[02-Jan-2014 11:07:07 UTC] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/getchee0/public_html/blog/wp-includes/query.php on line 2254
+[02-Jan-2014 11:07:22 UTC] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/getchee0/public_html/blog/wp-includes/query.php on line 1482
+[02-Jan-2014 11:07:22 UTC] PHP Warning:  stripslashes() expects parameter 1 to be string, array given in /home/getchee0/public_html/blog/wp-includes/query.php on line 1937
+[02-Jan-2014 11:09:22 UTC] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/getchee0/public_html/blog/wp-includes/query.php on line 2254
+[02-Jan-2014 11:09:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/getchee0/public_html/blog/wp-includes/query.php:2254) in /home/getchee0/public_html/blog/wp-includes/pluggable.php on line 896
+[02-Jan-2014 11:13:02 UTC] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/getchee0/public_html/blog/wp-includes/query.php on line 2254
+[02-Jan-2014 11:13:10 UTC] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/getchee0/public_html/blog/wp-includes/query.php on line 2254
+[02-Jan-2014 11:13:12 UTC] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/getchee0/public_html/blog/wp-includes/query.php on line 2254
+[07-Feb-2014 05:05:36 UTC] PHP Fatal error:  Out of memory (allocated 5767168) (tried to allocate 19456 bytes) in /home/getchee0/public_html/blog/wp-includes/link-template.php on line 109
+[07-Feb-2014 05:05:36 UTC] PHP Fatal error:  Out of memory (allocated 7864320) (tried to allocate 4864 bytes) in /home/getchee0/public_html/blog/wp-includes/comment.php on line 1686
+[07-Feb-2014 05:05:38 UTC] PHP Fatal error:  Out of memory (allocated 3145728) (tried to allocate 311296 bytes) in /home/getchee0/public_html/blog/wp-includes/formatting.php on line 715
+[07-Feb-2014 05:05:38 UTC] PHP Fatal error:  Out of memory (allocated 2883584) (tried to allocate 19456 bytes) in /home/getchee0/public_html/blog/wp-includes/formatting.php on line 495
+[07-Feb-2014 05:05:38 UTC] PHP Fatal error:  Out of memory (allocated 7602176) (tried to allocate 4864 bytes) in /home/getchee0/public_html/blog/wp-includes/category-template.php on line 958
+[07-Feb-2014 05:05:38 UTC] PHP Fatal error:  Out of memory (allocated 7077888) (tried to allocate 19456 bytes) in /home/getchee0/public_html/blog/wp-includes/post-template.php on line 350
+[07-Feb-2014 05:05:38 UTC] PHP Fatal error:  Out of memory (allocated 8388608) (tried to allocate 77824 bytes) in /home/getchee0/public_html/blog/wp-includes/rewrite.php on line 393
+[07-Feb-2014 05:05:38 UTC] PHP Fatal error:  Out of memory (allocated 9175040) (tried to allocate 19456 bytes) in /home/getchee0/public_html/blog/wp-includes/deprecated.php on line 1750
+[07-Feb-2014 05:05:38 UTC] PHP Fatal error:  Out of memory (allocated 10485760) (tried to allocate 77824 bytes) in /home/getchee0/public_html/blog/wp-includes/update.php on line 138
+[07-Feb-2014 05:05:39 UTC] PHP Fatal error:  Out of memory (allocated 10747904) (tried to allocate 311296 bytes) in /home/getchee0/public_html/blog/wp-includes/canonical.php on line 249
+[07-Feb-2014 05:05:39 UTC] PHP Fatal error:  Out of memory (allocated 12845056) (tried to allocate 311296 bytes) in /home/getchee0/public_html/blog/wp-content/plugins/all-in-one-seo-pack/aioseop_class.php on line 388
+[07-Feb-2014 05:05:39 UTC] PHP Fatal error:  Out of memory (allocated 14417920) (tried to allocate 4864 bytes) in /home/getchee0/public_html/blog/wp-content/plugins/user-role-editor/includes/class-garvs-wp-lib.php on line 180
+[07-Feb-2014 05:05:39 UTC] PHP Fatal error:  Out of memory (allocated 17039360) (tried to allocate 4864 bytes) in /home/getchee0/public_html/blog/wp-content/themes/getchee-new/library/functions/comments.php on line 300
+[27-May-2014 06:43:43 UTC] PHP Fatal error:  Out of memory (allocated 786432) (tried to allocate 19456 bytes) in /home/getchee0/public_html/blog/wp-includes/functions.php on line 1234
+[27-May-2014 06:43:43 UTC] PHP Fatal error:  Out of memory (allocated 12582912) (tried to allocate 4864 bytes) in /home/getchee0/public_html/blog/wp-content/plugins/ad-widget/lib/Utility.php on line 302
+[27-May-2014 06:43:43 UTC] PHP Fatal error:  Out of memory (allocated 13631488) (tried to allocate 311296 bytes) in /home/getchee0/public_html/blog/wp-content/plugins/all-in-one-seo-pack/aioseop_class.php on line 386
+[27-May-2014 06:43:43 UTC] PHP Fatal error:  Out of memory (allocated 9437184) (tried to allocate 4864 bytes) in /home/getchee0/public_html/blog/wp-includes/deprecated.php on line 2879
+[27-May-2014 06:43:44 UTC] PHP Fatal error:  Out of memory (allocated 786432) (tried to allocate 19456 bytes) in /home/getchee0/public_html/blog/wp-includes/functions.php on line 1234
+[27-May-2014 06:43:44 UTC] PHP Fatal error:  Out of memory (allocated 20709376) (tried to allocate 109843 bytes) in /home/getchee0/public_html/blog/wp-content/plugins/all-in-one-seo-pack/aioseop_class.php on line 2006
+[27-May-2014 06:43:44 UTC] PHP Fatal error:  Unknown: Cannot use output buffering in output buffering display handlers in Unknown on line 0

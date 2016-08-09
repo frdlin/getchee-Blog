@@ -1,0 +1,58 @@
+/* 
+    Document   : admin
+    Created on : May 25, 2012, 4:44:29 PM
+    Author     : Hana
+    Description:
+        Purpose of the stylesheet follows.
+*/
+.visual_pagination-editform input[type="text"] {
+    width: 70px; text-align: right;
+}
+.visual_pagination-editform .input-row input, .visual_pagination-editform .input-row select {
+    margin-right: 20px;
+}
+.visual_pagination-editform .input-row select {
+    text-align: left;
+}
+.visual_pagination-editform .label-row label {
+    width: 71px; margin-right: 20px; display: block; float: left; text-align: right;
+}
+.visual_pagination-editform .label-row .clear {
+    clear: both;
+}
+#templates-container {
+    display: none;
+}
+.slide-content {
+    margin: 100px 0px 0px 100px;
+}
+.uploadify, .image-button {
+    float: left; margin-right: 5px;
+}
+.uploadify-queue {
+    clear: both;
+}
+.visual_pagination-editform .free-notification{
+   color: red; position: absolute;
+   top: 400px; right: 50px; font-weight: bold; font-size: 20px;
+   background-image: url('images/free.png'); background-repeat: no-repeat;
+   width: 599px; height: 143px;
+}
+.visual_pagination-editform #upgrade-button {
+    position: absolute;
+    top: 70px; left: 232px;
+    background-image: url('images/upgrade.png'); background-repeat: no-repeat;
+    width: 129px; height: 35px;
+}
+.notification {
+    color: red; margin-left: 20px; font-size: 14px; margin-top: 50px;
+}
+.notification a {
+    font-weight: bold; font-size: 15px;
+}
+.left-side {
+    float: left;
+}
+.right-side {
+    float: right; padding-right: 20px; padding-top: 50px;
+}

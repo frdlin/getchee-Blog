@@ -1,0 +1,64 @@
+/*Reset*/
+html, body, div, ul, ol, li, dl, dt, dd, h1, h2, h3, h4, h5, h6, pre, form, p, blockquote, fieldset, input, abbr, article, aside, command, details, figcaption, figure, footer, header, hgroup, mark, meter, nav, output, progress, section, summary, time {
+	margin: 0;
+	padding: 0;
+}
+
+fieldset, iframe {
+	border: none;
+}
+
+caption, th {
+	text-align: left;
+}
+
+table {
+	border-collapse : collapse;
+	border-spacing: 0;
+}
+ 
+article, aside, footer, header, hgroup, nav, section, figure, figcaption, div {
+	display: block;
+}
+
+input[type=submit], input[type=Reset], input[type=text], select, textarea {
+	-webkit-appearance: none;
+	-webkit-box-shadow: none;
+}
+
+input[type=text], select, textarea {
+   -webkit-border-radius: 0em;
+}
+ 
+/*--- Basic Elements ---*/
+html {
+	height: 100%;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	position: relative;
+	font-family: Open Sans;
+	-webkit-font-smoothing: antialiased;
+	-webkit-text-size-adjust: none;
+	color: #888;
+	font-weight: 300;
+	background: #F0F0F0;
+	line-height: 1.75em;
+	overflow-x: hidden;
+}
+
+#mc_embed_signup {
+	width: 675px;
+	height: 550px;
+	margin-left: -337px;
+	overflow: hidden;
+	position: absolute;
+	background-color: #FFF;
+	left: 50%;
+	padding: 30px 55px;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
